@@ -1,0 +1,18 @@
+body {
+  font-family: 'Goldman', sans-serif;
+  margin: 0;
+}
+
+.app-header {
+  align-items: center;
+  background-color: rgb(3, 160, 98);
+  color: white;
+  display: flex;
+  justify-content: center;
+}
+
+.app-header > h1 {
+  font-weight: 900;
+  margin: 10px 20px;
+  padding: 0;
+}
