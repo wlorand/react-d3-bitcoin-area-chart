@@ -1,0 +1,10 @@
+/**
+ * File: bitcoin-price-chart.css
+ * Desc: modular chart styles - great candidate for a styled component
+ */
+
+.chart-container {
+  display: grid;
+  height: 80vh;
+  justify-items: center;
+}
